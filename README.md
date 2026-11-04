@@ -26,3 +26,8 @@
 - Ở trong các nhóm hack, buôn bán vi phạm luật server cũng sẽ bị ban nếu phát hiện.
 
 ### :pushpin: Tham gia server đồng nghĩa với việc bạn đã đọc và đồng ý toàn bộ rules trên.
+---
+
+### :link: **Link Tham Gia Server**
+- **Discord:** [Nhấn vào đây để tham gia Discord](https://discord.gg/X3X4GGh2fA) *(thay link discord của bạn vào đây)*
+- **Minecraft IP:** `zerosmp.falix.me` *(thay IP server của bạn vào đây)*
