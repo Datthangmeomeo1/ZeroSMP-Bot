@@ -1,0 +1,9 @@
+venv/
+venv_old/
+build/
+dist/
+*.exe
+token*.txt
+__pycache__/
+*.pyc
+*.spec
